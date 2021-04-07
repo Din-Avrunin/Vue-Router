@@ -1,19 +1,12 @@
 {
-   "posts":[
-      {
-         "id":1,
-         "title":"Save the world",
-         "time":"15:30",
-         "date":"jan 25"
-      },
-      {
-         "id":2,
-         "title":"meet at the museum to save the dolphins",
-         "time":"16:21",
-         "date":"feb 7"
-      }
-   ],
-   "profile":{
-      "name":"typicode"
-   }
+  "Admins": [
+    {
+      "name": "din",
+      "telephone": "0502266470"
+    },
+    {
+      "name": "yafit",
+      "telephone": "0524043833"
+    }
+  ]
 }
